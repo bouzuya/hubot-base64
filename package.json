@@ -25,6 +25,9 @@
     "url": "https://github.com/bouzuya/hubot-base64/issues"
   },
   "homepage": "https://github.com/bouzuya/hubot-base64",
+  "peerDependencies": {
+    "coffee-script": "1.7.x"
+  },
   "devDependencies": {
     "coffee-script": "^1.7.1",
     "espower-coffee": "^0.1.0",
